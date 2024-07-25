@@ -5,17 +5,17 @@
     "logo": "https://telegra.ph/file/351133422917a8bd7d776.jpg",
     "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
       "env": {
-       "OWNER_NAME": {"TOLUWALASE"
-      "description": "Put Owner Name Here"
+       "OWNER_NAME": {
+      "description": "TOLUWALASE"
     },
-        "OWNER_NUMBER": {"2348168772328"
-      "description": "Put your number here"
+        "OWNER_NUMBER": {
+      "description": "2348168772328"
     },
-         "BOTNAME": {"IDAM 2.0"
-      "description": "Name of your bot. Ex: - Maria-Bot"
+         "BOTNAME": {
+      "description": "IDAM 2.0"
     },
-     "PREFIX": {"."
-      "description": "set your bot prefix here ex:- '!' "
+     "PREFIX": {
+      "description": "!"
      },
     "AUTHOR": {
       "description": "set your bot author name here"
@@ -24,13 +24,13 @@
       "description": "set your bot sticker package name ex:- Ayush"
     },
      "id": {
-      "description": "Put your session id here"
+      "description": "_M_A_R_I_A_UGhvbmVzWGFuYWR1Cg=="
     },     
      "PM_BLOCKER": {
       "description": "type True for enable Pm blocker"
     },
-     "WELCOME": {"true"
-      "description": "Type True for enable welcome message"
+     "WELCOME": {
+      "description": "true"
     }     
   },
     "buildpacks": [
